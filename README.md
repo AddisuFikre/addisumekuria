@@ -1,4 +1,4 @@
-<h1 align="center"> Network Engineer Addisu Fikre</h1>
+<h1 align="center"> Addisu Fikre Network Engineer </h1>
 <h3 align="center">passionate about network automation</h3>
 
 <h3 align="left">Connect with me:</h3>
